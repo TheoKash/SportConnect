@@ -26,7 +26,7 @@ function NewComment (props) {
   return (
     <div className = "container-fluid mx-4 my-4 text-left justify-content-left">
 		  <div className="row">
-		  		<h2>Post a comment!</h2>
+		  		<h2>Post an Update</h2>
 	        <form onSubmit={submithandler}>
 	        	<div className="row mx-3 my-2 justify-contents-center">
 	        		<div className="ml-auto" style={{width: "96%"}}>
