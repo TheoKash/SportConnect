@@ -15,7 +15,7 @@
 </div>
 
 ## About The Project
-SportConnect allows users to view and declare interests in sport events such as park runs or basketball games happening in near a location convenient to them. 
+SportConnect allows users to view and declare interests in sport events such as park runs or basketball games happening at a location convenient to them. 
 
 ![Product Name Screen Shot][product-screenshot]
 The sport events themselves are hosted by other users who share the details of the event, including date, time, location and a description, for others to see and declare interest. \
